@@ -16,6 +16,7 @@ function Navbar() {
           <a href="#pages">Pages</a>
         </div>
       </div>
+      
       <div className="navbar-right">
         <a href="#login" className="nav-icon">
           <img

@@ -9,6 +9,8 @@ body {
     gap: 90px;
     padding: 40px;
     background-color: #fff;
+    margin-top: 2%;
+    margin-bottom: 2%;
 }
 
 .feature {
@@ -28,7 +30,7 @@ h3 {
     font-size: 24px;
     font-weight: 700;
     color: #252B42;
-    line-height: 32px;
+    line-height: 20px;
 
 }
 
