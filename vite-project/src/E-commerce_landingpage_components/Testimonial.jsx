@@ -7,11 +7,7 @@ const Testimonial = () => {
     <div className="testimonial-container">
       <h2>What they say about us</h2>
       <div className="testimonial-content">
-        <img
-          src='/public/Images/#user.1 (2).png'
-          alt="Regina Miles"
-          className="testimonial-image"
-        />
+       <img src="/Images/#user.1.png" alt="" />
         <div className="testimonial-text">
           <div className="testimonial-rating">
             <span>★</span>

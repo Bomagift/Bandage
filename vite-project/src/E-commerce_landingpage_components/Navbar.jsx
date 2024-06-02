@@ -29,14 +29,14 @@ function Navbar() {
         <a href="#search" className="nav-icons">
           <img src="/public/Images/li (1).png" alt="Search" className="icons" />
         </a>
-        <a href="#cart" className="nav-icons">
-          <img src="/public/Images/li.png" alt="Cart" className="icons" />
+        <a href="#cart" className="nav-icons" >
+          <img src="/Images/Vector (15).png" alt="Cart" className="icons-3" />
         </a>
         <a href="#wishlist" className="nav-icons">
           <img
-            src="/public/Images/a (2).png"
+            src="/Images/Vector (13).png"
             alt="Wishlist"
-            className="icons"
+            className="icons-4"
           />
         </a>
       </div>

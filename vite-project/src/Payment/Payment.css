@@ -1,0 +1,15 @@
+.shopping-cart {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  padding-bottom: 6%;
+  
+}
+
+.Background{
+  background-color: #FAFAFA;
+}
+
+.Ashcolor{
+  background-color: #ffff;
+}
